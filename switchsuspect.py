@@ -3,8 +3,7 @@ import Suspect
 
 def switchSuspect():
 
-    q4 = input("""Alla andra misstänkta är fortfarande där, du kan prata med: queen, noble, priest,"
-     chef eller blacksmith""")
+    q4 = input("""All the others are still there, you can talk to: Queen, noble, priest, chef, blacksmith""")
     if q4 == "queen":
         Suspect.queen.startup(0)
     elif q4 == "noble":
