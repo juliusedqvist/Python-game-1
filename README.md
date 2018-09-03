@@ -2,7 +2,7 @@
 Just your regular python text based detective game
 
 
-To run the program just copy all the files into something that runs python. all the files need to be in the same directory.
+To run the program, copy all the files into something that runs python. all the files need to be in the same directory.
 run the program from main.py
 
 
@@ -12,14 +12,10 @@ The main idea behind the game:
 "You're a detective that has been hired to solve a murder. You'll make a thesis by asking the suspects questions about 
 the different the other suspects (You can also ask them about themselves) and then test the thesis via the accuse function.
 
-The riddle takes some time to complete and i encourage you to not give up. On the other hand if you find it to easy please give
-me feedback and I'll look into it.
+The riddle takes some time to complete and i encourage you to not give up. On the other hand if you find it to easy please give me feedback and I'll try to modify some lines. The game has been under development for a while now.
 
 
 How to play:
-
-First choose difficulty by typing easy. There aren't any other difficultys but I think it adds to the experience.
-Then type no to not skip the story (you can type yes to skip it if your unpatient but again everything else will just play it.)
 
 Start by inputing the name of the suspect you want to question first. For an example: queen. Then you'll se some text appear, 
 note that this is information that can help you, continue by typing the suspect you want the queen to tell you about.
