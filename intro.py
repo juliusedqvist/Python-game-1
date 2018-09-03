@@ -8,7 +8,7 @@ def intro():
 
 
 def introText():
-    Suspect.set_difficulty()
+    # Suspect.set_difficulty()
     skipIntro = input("Want to skip intro?")
     if skipIntro == "yes":
         gameplayStart()
